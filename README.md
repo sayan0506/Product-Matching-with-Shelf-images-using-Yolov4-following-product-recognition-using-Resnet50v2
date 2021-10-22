@@ -39,6 +39,7 @@ The dataset contains 3153 shelf images, and 300 product images corresponding to 
 
 * The detailed implementation can be found in the colab notebook [here](https://github.com/sayan0506/Product-Matching/blob/main/Product_Matching.ipynb).
 * The model weights, predictions, solution text files can be found from drive [here](https://drive.google.com/drive/folders/1Ggv5Ap9ln44cfHvzkbBOUdjJhd5O2ExF?usp=sharing).
+* Solution text files can be found [here]()
 
 ## **Reference**
 
