@@ -34,11 +34,10 @@ The dataset contains 3153 shelf images, and 300 product images corresponding to 
 
 ## **Implementation**
 
-The detailed implementation can be found in the colab notebook [here]().
-
+* The detailed implementation can be found in the colab notebook [here](https://github.com/sayan0506/Product-Matching/blob/main/Product_Matching.ipynb).
+* The model weights, predictions, solution text files can be found from drive [here](https://drive.google.com/drive/folders/1Ggv5Ap9ln44cfHvzkbBOUdjJhd5O2ExF?usp=sharing).
 
 ## **Reference**
-
 
 * [Product Matching in eCommerce using deep learning](https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca)
 * [Transfer Learning in Image Classification: how much training data do we really need?](https://towardsdatascience.com/transfer-learning-in-image-classification-how-much-training-data-do-we-really-need-7fb570abe774)
