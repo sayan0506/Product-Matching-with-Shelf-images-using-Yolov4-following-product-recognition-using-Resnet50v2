@@ -10,7 +10,7 @@ The problem statement here is to detect product images from a shelf of goods in 
 
 ## **Dataset**
 
-The dataset contains shelf images, and 300 product images corresponding to 100 different categories
+The dataset contains 3153 shelf images, and 300 product images corresponding to 100 different categories containing 3 images for each of the individual caregory.
 
 
 ## **Reference**
